@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
 <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/c++.svg">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/cpp.svg">
 </a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
@@ -76,8 +76,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:4px">
 </a>
  <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px">
-</a>
 </p>
 
 ---
@@ -88,4 +86,4 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github.com/saxenashivang20/saxenashivang20/blob/output/github-contribution-grid-snake.gif" width="700" /> </p>
 
-<h3 align="center">Thank you for being here. Would love to interact😃 </h3>
+
