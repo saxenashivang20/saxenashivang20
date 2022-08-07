@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 <h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
 <a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus.svg">
 </a>
 <a href="#">
-<img src="/python.shttps://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languagesvg">
+<img src="/python.shttps://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/python.svg">
 </a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
