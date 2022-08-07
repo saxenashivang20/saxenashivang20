@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
 <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/cpp.svg">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/cplusplus.svg">
 </a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
