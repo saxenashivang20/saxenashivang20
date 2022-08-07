@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus.svg">
 </a>
 <a href="#">
-<img src="/python.shttps://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/python.svg">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
 </a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
