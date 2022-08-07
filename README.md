@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**shrankhla20/shrankhla20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saxenashivang20/saxenashivang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 <h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
 <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/cplusplus.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
+<img src="/python.shttps://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languagesvg">
 </a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
