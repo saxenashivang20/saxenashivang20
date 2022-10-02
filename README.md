@@ -57,6 +57,9 @@ Here are some ideas to get you started:
   <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
 </a>
+ <a href="https://reactjs.org">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+</a>
 </a>
 </p>
 
