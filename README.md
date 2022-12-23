@@ -63,6 +63,8 @@ Here are some ideas to get you started:
  <a href="https://reactjs.org">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
 </a>
+<a>
+<img src = "https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg"> 
 </a>
 </p>
 
